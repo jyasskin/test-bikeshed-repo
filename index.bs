@@ -1,0 +1,17 @@
+<pre class='metadata'>
+Title: My Awesome API
+Shortname: test-bikeshed-repo
+Level: 1
+Status: CG-DRAFT
+Group: WICG
+Repository: WICG/test-bikeshed-repo
+URL: http://example.com/url-this-spec-will-live-at
+Editor: Jeffrey Yasskin, Google https://google.com, jyasskin@google.com
+!Tests: <a href=https://github.com/w3c/web-platform-tests/tree/master/test-bikeshed-repo>web-platform-tests test-bikeshed-repo/</a> (<a href=https://github.com/w3c/web-platform-tests/labels/test-bikeshed-repo>ongoing work</a>)
+Abstract: A short description of your spec, one or two sentences.
+</pre>
+
+Introduction {#intro}
+=====================
+
+See https://github.com/tabatkins/bikeshed to get started.
